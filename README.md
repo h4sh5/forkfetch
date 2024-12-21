@@ -7,7 +7,7 @@ Forkfetch uses the HTTP `Range` header to split up a download into chunks, then 
 It can also be used as a proxied download tool, since the client machine never touches the target URL directly.
 
 
-<img src=forkfetch-arch.jpeg>
+<img src=forkfetch-arch.jpg>
 
 ## Setup
 
